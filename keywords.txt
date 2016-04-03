@@ -1,0 +1,5 @@
+ClassInterruptService	KEYWORD2
+Register	KEYWORD2
+Deregister	KEYWORD2
+AvailableInterrupts	KEYWORD2
+HandledISR	KEYWORD2
